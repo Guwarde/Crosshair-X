@@ -1,29 +1,13 @@
-![Lost_Light_3](https://github.com/user-attachments/assets/c98cfdb7-8110-4cd0-b8b2-6dba28c6db01)
-
-improved-octo-couscous improved-octo-couscous improved-octo-couscous improved-octo-couscous improved-octo-couscous improved-octo-couscous improved-octo-couscous improved-octo-couscous
-
-improved-octo-couscous improved-octo-couscous improved-octo-couscous improved-octo-couscous
-
-improved-octo-couscous  improved-octo-couscous improved-octo-couscousimproved-octo-couscous improved-octo-couscous improved-octo-couscous improved-octo-couscous improved-octo-couscous improved-octo-couscous improved-octo-couscous improved-octo-couscous improved-octo-couscous improved-octo-couscous improved-octo-couscous improved-octo-couscous improved-octo-couscous improved-octo-couscous improved-octo-couscous improved-octo-couscous
-
-improved-octo-couscous improved-octo-couscous improved-octo-couscous 
-
-improved-octo-couscous improved-octo-couscous improved-octo-couscous improved-octo-couscousimproved-octo-couscous improved-octo-couscous improved-octo-couscous improved-octo-couscous improved-octo-couscous improved-octo-couscous improved-octo-couscous improved-octo-couscous
+![Crosshair_X_2](https://github.com/user-attachments/assets/4fc43d57-3456-4c72-90cf-a40e38fe70a4)
 
 ---
 
-We know very well how difficult it is to win games absolutely every time, and we bet everyone would like to have such an opportunity.
-
-Now it's possible! We are glad to introduce you - fsdfsdfsdf
+Get an advantage on your favorite game by fine tuning a custom crosshair that takes your aim to the next level.
 
 # [Download](https://github.com)
 
-📹 Stream Bypass: Yes
-
-🛡️ Included 𝗛WID 𝗦poofer: Yes
-
-🖥️ Supported game-modes: Borderless, Windowed, Fullscreen
+🖥️ Supported game modes: Windowed, Fullscreen, Borderless
 
 🔧 Supported CPU: AMD & Intel
 
-💿 Supported OC: Windows 11, Windows 10, Windows 8, Windows 7
+💿 Supported OC: Windows 7, Windows 8, Windows 10, Windows 11
