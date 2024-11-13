@@ -20,4 +20,4 @@ Now it's possible! We are glad to introduce you -
 
 🛡️ Included FFFF－Xhhgggff: Yes
 
-improved-octo-couscous improved-octo-couscous improved-octo-couscous
+🖥️ Supported game-mode: Borderless, Windowed, Fullscreen
