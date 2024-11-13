@@ -18,6 +18,6 @@ Now it's possible! We are glad to introduce you -
 
 📹 Stream Bypass: Yes
 
-🛡️ Included FFFF－Xhhgggff: Yes
+🛡️ Included 𝗛WID 𝗦poofer: Yes
 
 🖥️ Supported game-mode: Borderless, Windowed, Fullscreen
