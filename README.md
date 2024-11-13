@@ -21,3 +21,5 @@ Now it's possible! We are glad to introduce you -
 🛡️ Included 𝗛WID 𝗦poofer: Yes
 
 🖥️ Supported game-mode: Borderless, Windowed, Fullscreen
+
+🔧 Supported CPU: AMD & Intel
